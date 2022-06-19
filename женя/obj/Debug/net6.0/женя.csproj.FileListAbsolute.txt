@@ -1,0 +1,15 @@
+C:\Users\alyam\RiderProjects\женя\женя\bin\Debug\net6.0\женя.exe
+C:\Users\alyam\RiderProjects\женя\женя\bin\Debug\net6.0\женя.deps.json
+C:\Users\alyam\RiderProjects\женя\женя\bin\Debug\net6.0\женя.runtimeconfig.json
+C:\Users\alyam\RiderProjects\женя\женя\bin\Debug\net6.0\женя.dll
+C:\Users\alyam\RiderProjects\женя\женя\bin\Debug\net6.0\женя.pdb
+C:\Users\alyam\RiderProjects\женя\женя\obj\Debug\net6.0\женя.csproj.AssemblyReference.cache
+C:\Users\alyam\RiderProjects\женя\женя\obj\Debug\net6.0\женя.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyam\RiderProjects\женя\женя\obj\Debug\net6.0\женя.AssemblyInfoInputs.cache
+C:\Users\alyam\RiderProjects\женя\женя\obj\Debug\net6.0\женя.AssemblyInfo.cs
+C:\Users\alyam\RiderProjects\женя\женя\obj\Debug\net6.0\женя.csproj.CoreCompileInputs.cache
+C:\Users\alyam\RiderProjects\женя\женя\obj\Debug\net6.0\женя.dll
+C:\Users\alyam\RiderProjects\женя\женя\obj\Debug\net6.0\refint\женя.dll
+C:\Users\alyam\RiderProjects\женя\женя\obj\Debug\net6.0\женя.pdb
+C:\Users\alyam\RiderProjects\женя\женя\obj\Debug\net6.0\женя.genruntimeconfig.cache
+C:\Users\alyam\RiderProjects\женя\женя\obj\Debug\net6.0\ref\женя.dll

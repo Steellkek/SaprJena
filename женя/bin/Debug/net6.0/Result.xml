@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Result>
+    <Radius>3</Radius>
+    <area>0 1 2 </area>
+    <d>13</d>
+    <Matrix>0 5 8 0 0 0 0 
+5 0 0 12 0 9 0 
+8 0 0 0 8 4 2 
+0 12 0 0 3 6 0 
+0 0 8 3 0 0 7 
+0 9 4 6 0 0 0 
+0 0 2 0 7 0 0 
+</Matrix>
+    <!-- Матрица -->
+  </Result>
+</root>
